@@ -5,7 +5,7 @@ import '../components/InputQuery.js';
 import '../components/SubHeading.js';
 import '../components/SubmitButton.js';
 
-const App = () => {
+function App() {
   return (
     <div id="main">
       <Heading/>
