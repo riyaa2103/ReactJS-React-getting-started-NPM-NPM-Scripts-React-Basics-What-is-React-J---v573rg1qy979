@@ -5,8 +5,8 @@ const App = () => {
   return (
     <div id="main">
       <Heading/>
+      < InputQuery/>
       < SubHeading/>
-      < />
       < SubmitButton/>
     </div>
   )
